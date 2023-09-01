@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-thanh-cong-lam-gi-vao-buoi-toi_20332.html",
+    "title" : "Người Thành Công Làm Gì Vào Buổi Tối?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hayato Toto",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 7010,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_b9352eb261f65c499f9c0e3bf4554cbc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_b9352eb261f65c499f9c0e3bf4554cbc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "buoi-toi (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "buoi-toi (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "buoi-toi (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "buoi-toi (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
+    "title" : "buoi-toi (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
+    "title" : "buoi-toi (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
+    "title" : "buoi-toi (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
+    "title" : "buoi-toi (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
