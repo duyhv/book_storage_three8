@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-hoach-lam-giau-365-ngay_19452.html",
+    "title" : "Kế Hoạch Làm Giàu 365 Ngày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 21997,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_1d1f0d9f6a5acab02c9fd1226a8f1301.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_1d1f0d9f6a5acab02c9fd1226a8f1301.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ke-hoach-3 (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_1.mp3",
+    "title" : "ke-hoach-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_2.mp3",
+    "title" : "ke-hoach-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_3.mp3",
+    "title" : "ke-hoach-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_e8e98a38e99d1a07d9f1ba8675a40970_4.mp3",
+    "title" : "ke-hoach-1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_1.mp3",
+    "title" : "ke-hoach-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_2.mp3",
+    "title" : "ke-hoach-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_3.mp3",
+    "title" : "ke-hoach-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_51a4badf94c3d8d3cca84f8a58cdce6d_4.mp3",
+    "title" : "ke-hoach-2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_1.mp3",
+    "title" : "ke-hoach-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_2.mp3",
+    "title" : "ke-hoach-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_3.mp3",
+    "title" : "ke-hoach-3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1d1f0d9f6a5acab02c9fd1226a8f1301_c3fb1e1c6011cd1143695d7c55dd11a2_4.mp3",
+    "title" : "ke-hoach-3 (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
