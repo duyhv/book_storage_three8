@@ -1,0 +1,1229 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-toc-chi-kiep_17832.html",
+    "title" : "Vạn Tộc Chi Kiếp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lão Ưng Cật Tiểu Kê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 333309,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_febbfed047cb965762da9a47a06d64d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_febbfed047cb965762da9a47a06d64d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000001.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4390,
+    "title" : "Vạn Tộc Chi Kiếp 00001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000002.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Vạn Tộc Chi Kiếp 00002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000003.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "Vạn Tộc Chi Kiếp 00003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000004.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3226,
+    "title" : "Vạn Tộc Chi Kiếp 00004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000005.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "Vạn Tộc Chi Kiếp 00005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000006.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "Vạn Tộc Chi Kiếp 00006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000007.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "Vạn Tộc Chi Kiếp 00007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000008.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3149,
+    "title" : "Vạn Tộc Chi Kiếp 00008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000009.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "Vạn Tộc Chi Kiếp 00009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000010.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "Vạn Tộc Chi Kiếp 00010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000011.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "Vạn Tộc Chi Kiếp 00011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000012.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "Vạn Tộc Chi Kiếp 00012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000013.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "Vạn Tộc Chi Kiếp 00013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000014.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "Vạn Tộc Chi Kiếp 00014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000015.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "Vạn Tộc Chi Kiếp 00015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000016.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "Vạn Tộc Chi Kiếp 00016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000017.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "Vạn Tộc Chi Kiếp 00017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000018.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "Vạn Tộc Chi Kiếp 00018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000019.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Vạn Tộc Chi Kiếp 00019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000020.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Vạn Tộc Chi Kiếp 00020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000021.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Vạn Tộc Chi Kiếp 00021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000022.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "Vạn Tộc Chi Kiếp 00022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000023.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "Vạn Tộc Chi Kiếp 00023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000024.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "Vạn Tộc Chi Kiếp 00024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000025.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3069,
+    "title" : "Vạn Tộc Chi Kiếp 00025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000026.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "Vạn Tộc Chi Kiếp 00026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000027.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "Vạn Tộc Chi Kiếp 00027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000028.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "Vạn Tộc Chi Kiếp 00028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000029.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "Vạn Tộc Chi Kiếp 00029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000030.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "Vạn Tộc Chi Kiếp 00030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000031.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Vạn Tộc Chi Kiếp 00031",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000032.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "Vạn Tộc Chi Kiếp 00032",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000033.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "Vạn Tộc Chi Kiếp 00033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000034.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "Vạn Tộc Chi Kiếp 00034",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000035.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "Vạn Tộc Chi Kiếp 00035",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000036.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "Vạn Tộc Chi Kiếp 00036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000037.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "Vạn Tộc Chi Kiếp 00037",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000038.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "Vạn Tộc Chi Kiếp 00038",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000039.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "Vạn Tộc Chi Kiếp 00039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000040.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "Vạn Tộc Chi Kiếp 00040",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000041.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Vạn Tộc Chi Kiếp 00041",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000042.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "Vạn Tộc Chi Kiếp 00042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000043.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "Vạn Tộc Chi Kiếp 00043",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000044.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "Vạn Tộc Chi Kiếp 00044",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000045.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Vạn Tộc Chi Kiếp 00045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000046.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "Vạn Tộc Chi Kiếp 00046",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000047.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "Vạn Tộc Chi Kiếp 00047",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000048.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "Vạn Tộc Chi Kiếp 00048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000049.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "Vạn Tộc Chi Kiếp 00049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000050.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Vạn Tộc Chi Kiếp 00050",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000051.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3519,
+    "title" : "Vạn Tộc Chi Kiếp 00051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000052.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "Vạn Tộc Chi Kiếp 00052",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000053.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "Vạn Tộc Chi Kiếp 00053",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000054.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Vạn Tộc Chi Kiếp 00054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000055.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "Vạn Tộc Chi Kiếp 00055",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000056.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Vạn Tộc Chi Kiếp 00056",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000057.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "Vạn Tộc Chi Kiếp 00057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000058.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "Vạn Tộc Chi Kiếp 00058",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000059.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "Vạn Tộc Chi Kiếp 00059",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000060.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Vạn Tộc Chi Kiếp 00060",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000061.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3479,
+    "title" : "Vạn Tộc Chi Kiếp 00061",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000062.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3218,
+    "title" : "Vạn Tộc Chi Kiếp 00062",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000063.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "Vạn Tộc Chi Kiếp 00063",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000064.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "Vạn Tộc Chi Kiếp 00064",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000065.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "Vạn Tộc Chi Kiếp 00065",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000066.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "Vạn Tộc Chi Kiếp 00066",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000067.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "Vạn Tộc Chi Kiếp 00067",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000068.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3158,
+    "title" : "Vạn Tộc Chi Kiếp 00068",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000069.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Vạn Tộc Chi Kiếp 00069",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000070.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "Vạn Tộc Chi Kiếp 00070",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000071.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "Vạn Tộc Chi Kiếp 00071",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000072.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "Vạn Tộc Chi Kiếp 00072",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000073.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "Vạn Tộc Chi Kiếp 00073",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000074.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Vạn Tộc Chi Kiếp 00074",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000075.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "Vạn Tộc Chi Kiếp 00075",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000076.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "Vạn Tộc Chi Kiếp 00076",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000077.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "Vạn Tộc Chi Kiếp 00077",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000078.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "Vạn Tộc Chi Kiếp 00078",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000079.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "Vạn Tộc Chi Kiếp 00079",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000080.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "Vạn Tộc Chi Kiếp 00080",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000081.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "Vạn Tộc Chi Kiếp 00081",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000082.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "Vạn Tộc Chi Kiếp 00082",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000083.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3352,
+    "title" : "Vạn Tộc Chi Kiếp 00083",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000084.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Vạn Tộc Chi Kiếp 00084",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000085.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "Vạn Tộc Chi Kiếp 00085",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000086.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "Vạn Tộc Chi Kiếp 00086",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000087.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "Vạn Tộc Chi Kiếp 00087",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000088.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "Vạn Tộc Chi Kiếp 00088",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000089.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3534,
+    "title" : "Vạn Tộc Chi Kiếp 00089",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000090.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "Vạn Tộc Chi Kiếp 00090",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000091.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "Vạn Tộc Chi Kiếp 00091",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000092.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "Vạn Tộc Chi Kiếp 00092",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000093.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "Vạn Tộc Chi Kiếp 00093",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000094.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "Vạn Tộc Chi Kiếp 00094",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000095.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "Vạn Tộc Chi Kiếp 00095",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000096.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "Vạn Tộc Chi Kiếp 00096",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000097.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Vạn Tộc Chi Kiếp 00097",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000098.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Vạn Tộc Chi Kiếp 00098",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000099.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "Vạn Tộc Chi Kiếp 00099",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000001.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000002.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000003.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000004.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000005.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000006.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000007.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000008.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000009.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000010.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000011.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000012.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000013.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000014.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000015.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000016.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000017.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000018.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000019.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000020.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000021.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000022.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000023.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000024.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000025.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000026.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000027.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000028.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000029.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000030.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000031.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00031",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000032.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00032",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000033.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000034.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00034",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000035.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00035",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000036.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000037.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00037",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000038.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00038",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000039.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000040.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00040",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000041.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00041",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000042.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000043.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00043",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000044.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00044",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000045.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000046.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00046",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000047.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00047",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000048.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000049.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000050.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00050",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000051.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000052.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00052",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000053.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00053",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000054.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000055.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00055",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000056.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00056",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000057.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000058.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00058",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000059.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00059",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000060.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00060",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000061.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00061",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000062.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00062",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000063.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00063",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000064.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00064",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000065.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00065",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000066.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00066",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000067.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00067",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000068.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00068",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000069.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00069",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000070.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00070",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000071.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00071",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000072.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00072",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000073.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00073",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000074.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00074",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000075.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00075",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000076.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00076",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000077.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00077",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000078.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00078",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000079.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00079",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000080.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00080",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000081.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00081",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000082.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00082",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000083.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00083",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000084.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00084",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000085.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00085",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000086.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00086",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000087.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00087",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000088.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00088",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000089.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00089",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000090.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00090",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000091.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00091",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000092.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00092",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000093.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00093",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000094.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00094",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000095.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00095",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000096.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00096",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000097.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00097",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000098.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00098",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vtck_20220313/Va%CC%A3n%20To%CC%A3%CC%82c%20Chi%20Kie%CC%82%CC%81p%2000099.m4a",
+    "title" : "Vạn Tộc Chi Kiếp 00099",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
