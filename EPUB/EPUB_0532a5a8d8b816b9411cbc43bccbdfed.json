@@ -1,0 +1,893 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-vo-tai-sinh_15883.html",
+    "title" : "Cô Vợ Tái Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Khải Trạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 229692,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_0532a5a8d8b816b9411cbc43bccbdfed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_0532a5a8d8b816b9411cbc43bccbdfed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "TẬP 1 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "TẬP 10 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2743,
+    "title" : "MC NHƯ QUỲNH - TẬP 11 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "TẬP 12 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2767,
+    "title" : "TẬP 13 - TRUYỆN NGÔN TÌNH MỚI NHẤT - MC NHƯ QUỲNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "TẬP 14 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3074,
+    "title" : "MC NHƯ QUỲNH KỂ - TÂP 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "TẬP 16 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "TẬP 17 - MC NHƯ QUỲNH KỂ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "TẬP 18 - MC NHƯ QUỲNH KỂ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3189,
+    "title" : "TẬP 19 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "TẬP 2 - MC NHU QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "TẬP 20 - MC NHƯ QUỲNH KỂ - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "TẬP 21 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "TẬP 22 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3144,
+    "title" : "TẬP 23 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "TẬP 24 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "TẬP 25 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "TẬP 26 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "TẬP 27- TRUYỆN NGÔN TÌNH MỚI NHẤT - chương (529-535)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "TẬP 29 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "TẬP 29 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "TẬP 3 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "TẬP 30 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "TẬP 32 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2646,
+    "title" : "TẬP 33 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2643,
+    "title" : "TẬP 35 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "CÔ VỢ TÁI SINH -TẬP 36 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "TẬP 37 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3096,
+    "title" : "CÔ VỢ TÁI SINH -TẬP 38- TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2590,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "CÔ VỢ TÁI SINH- TẬP 40 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3452,
+    "title" : "TẬP 41 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "TẬP 42 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "43 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2734,
+    "title" : "TẬP 44 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2727,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "TẬP 48 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "TẬP 49 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "TẬP 5 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "TẬP 50 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "TẬP 51 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "TẬP 52 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "TẬP 54 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "TẬP 55 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "TẬP 56 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "TẬP 57 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "TẬP 58 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "TẬP 59 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "TẬP 6 - MC NHƯ QUỲNH KỂ - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "TẬP 60 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "TẬP 61-TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "TẬP 62 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "TẬP 63 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "TẬP 64 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "TẬP 65 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "CÔ VỢ TÁI SINH -TẬP 66 -TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "TẬP 67 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "TẬP 68 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "CÔ VỢ TÁI SINH -TẬP 69 -TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "TẬP 7 - MC NHU QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "TẬP 70 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5474,
+    "title" : "TẬP CUỐI - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "TẬP 8 - MC NHƯ QUỲNH - TRUYỆN TÂM LÝ XÃ HỘI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "TẬP 9 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/1.mp3",
+    "title" : "TẬP 1 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/10.mp3",
+    "title" : "TẬP 10 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/11.mp3",
+    "title" : "MC NHƯ QUỲNH - TẬP 11 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/12.mp3",
+    "title" : "TẬP 12 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/13.mp3",
+    "title" : "TẬP 13 - TRUYỆN NGÔN TÌNH MỚI NHẤT - MC NHƯ QUỲNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/14.mp3",
+    "title" : "TẬP 14 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/15.mp3",
+    "title" : "MC NHƯ QUỲNH KỂ - TÂP 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/16.mp3",
+    "title" : "TẬP 16 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/17.mp3",
+    "title" : "TẬP 17 - MC NHƯ QUỲNH KỂ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/18.mp3",
+    "title" : "TẬP 18 - MC NHƯ QUỲNH KỂ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/19.mp3",
+    "title" : "TẬP 19 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/2.mp3",
+    "title" : "TẬP 2 - MC NHU QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/20.mp3",
+    "title" : "TẬP 20 - MC NHƯ QUỲNH KỂ - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/21.mp3",
+    "title" : "TẬP 21 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/22.mp3",
+    "title" : "TẬP 22 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/23.mp3",
+    "title" : "TẬP 23 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/24.mp3",
+    "title" : "TẬP 24 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/25.mp3",
+    "title" : "TẬP 25 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/26.mp3",
+    "title" : "TẬP 26 - MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/27.mp3",
+    "title" : "TẬP 27- TRUYỆN NGÔN TÌNH MỚI NHẤT - chương (529-535)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/28.mp3",
+    "title" : "TẬP 29 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/29.mp3",
+    "title" : "TẬP 29 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/3.mp3",
+    "title" : "TẬP 3 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/30.mp3",
+    "title" : "TẬP 30 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/31.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/32.mp3",
+    "title" : "TẬP 32 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/33.mp3",
+    "title" : "TẬP 33 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/34.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/35.mp3",
+    "title" : "TẬP 35 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/36.mp3",
+    "title" : "CÔ VỢ TÁI SINH -TẬP 36 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/37.mp3",
+    "title" : "TẬP 37 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/38.mp3",
+    "title" : "CÔ VỢ TÁI SINH -TẬP 38- TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/39.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/4.mp3",
+    "title" : "MC NHƯ QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/40.mp3",
+    "title" : "CÔ VỢ TÁI SINH- TẬP 40 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/41.mp3",
+    "title" : "TẬP 41 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/42.mp3",
+    "title" : "TẬP 42 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/43.mp3",
+    "title" : "43 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/44.mp3",
+    "title" : "TẬP 44 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/45.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/46.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/47.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/48.mp3",
+    "title" : "TẬP 48 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/49.mp3",
+    "title" : "TẬP 49 -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/5.mp3",
+    "title" : "TẬP 5 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/50.mp3",
+    "title" : "TẬP 50 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/51.mp3",
+    "title" : "TẬP 51 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/52.mp3",
+    "title" : "TẬP 52 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/53.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/54.mp3",
+    "title" : "TẬP 54 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/55.mp3",
+    "title" : "TẬP 55 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/56.mp3",
+    "title" : "TẬP 56 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/57.mp3",
+    "title" : "TẬP 57 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/58.mp3",
+    "title" : "TẬP 58 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/59.mp3",
+    "title" : "TẬP 59 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/6.mp3",
+    "title" : "TẬP 6 - MC NHƯ QUỲNH KỂ - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/60.mp3",
+    "title" : "TẬP 60 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/61.mp3",
+    "title" : "TẬP 61-TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/62.mp3",
+    "title" : "TẬP 62 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/63.mp3",
+    "title" : "TẬP 63 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/64.mp3",
+    "title" : "TẬP 64 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/65.mp3",
+    "title" : "TẬP 65 - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/66.mp3",
+    "title" : "CÔ VỢ TÁI SINH -TẬP 66 -TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/67.mp3",
+    "title" : "TẬP 67 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/68.mp3",
+    "title" : "TẬP 68 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/69.mp3",
+    "title" : "CÔ VỢ TÁI SINH -TẬP 69 -TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/7.mp3",
+    "title" : "TẬP 7 - MC NHU QUỲNH - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/70.mp3",
+    "title" : "TẬP 70 - TRUYỆN NGÔN TÌNH MỚI NHẤT 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/71.mp3",
+    "title" : "TẬP CUỐI - TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/8.mp3",
+    "title" : "TẬP 8 - MC NHƯ QUỲNH - TRUYỆN TÂM LÝ XÃ HỘI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-tai-sinh/9.mp3",
+    "title" : "TẬP 9 - MC NHƯ QUỲNH -TRUYỆN NGÔN TÌNH MỚI NHẤT",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
