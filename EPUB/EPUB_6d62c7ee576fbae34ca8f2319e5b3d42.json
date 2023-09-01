@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghi-don-gian-song-don-thuan_19374.html",
+    "title" : "Nghĩ Đơn Giản, Sống Đơn Thuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tolly Burkan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 4932,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_6d62c7ee576fbae34ca8f2319e5b3d42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_6d62c7ee576fbae34ca8f2319e5b3d42.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nghi-don (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nghi-don (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nghi-don (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_1.mp3",
+    "title" : "nghi-don (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_2.mp3",
+    "title" : "nghi-don (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_3.mp3",
+    "title" : "nghi-don (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
