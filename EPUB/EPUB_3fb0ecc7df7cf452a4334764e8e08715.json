@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-tu-loi-nhan-ai-mot-tam-long_20402.html",
+    "title" : "Công Tử Lời, Nhân Ái Một Tấm Lòng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huỳnh Quan Thư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 10082,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_3fb0ecc7df7cf452a4334764e8e08715.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_3fb0ecc7df7cf452a4334764e8e08715.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cong-tu-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_1.mp3",
+    "title" : "cong-tu-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_2.mp3",
+    "title" : "cong-tu-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_1.mp3",
+    "title" : "cong-tu-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_2.mp3",
+    "title" : "cong-tu-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_1.mp3",
+    "title" : "cong-tu-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_2.mp3",
+    "title" : "cong-tu-3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
