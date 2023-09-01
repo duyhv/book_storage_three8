@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-on-em-da-yeu-anh_19800.html",
+    "title" : "Cảm Ơn Em Đã Yêu Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duyên Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-23",
+    "duration" : 14811,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_6376f4d39e4d2181edb8ba992b610a15.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_6376f4d39e4d2181edb8ba992b610a15.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cam-on-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_1.mp3",
+    "title" : "cam-on-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_2.mp3",
+    "title" : "cam-on-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_d2be4a6224192855a9acb3ec5a0b02f0_3.mp3",
+    "title" : "cam-on-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_1.mp3",
+    "title" : "cam-on-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_2.mp3",
+    "title" : "cam-on-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_e62fe31cb5e2045ee6ba464066bddbb8_3.mp3",
+    "title" : "cam-on-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_1.mp3",
+    "title" : "cam-on-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_2.mp3",
+    "title" : "cam-on-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6376f4d39e4d2181edb8ba992b610a15_c82c8866637412afbe118e6d6ffd3245_3.mp3",
+    "title" : "cam-on-3 (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

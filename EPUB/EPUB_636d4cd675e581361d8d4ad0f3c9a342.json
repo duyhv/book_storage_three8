@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gin-giu-cho-nhau_20667.html",
+    "title" : "Gìn Giữ Cho Nhau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Bối",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 13767,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_636d4cd675e581361d8d4ad0f3c9a342.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_636d4cd675e581361d8d4ad0f3c9a342.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_a86785e5391112dd529b80f5d39ebb7c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1558,
+    "title" : "Gìn Giữ Cho Nhau (phần 1) Sách Nói _Giọng Đọc Thiên Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_f1833abedad4a6c5debdeba047ba4135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "Gìn Giữ Cho Nhau (phần 2) Sách Nói _Giọng Đọc Thiên Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_af948d118445bdb9eda11723d997dc69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1695,
+    "title" : "Gìn Giữ Cho Nhau (phần 3) Sách Nói _Giọng Đọc Thiên Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_a4e1b46acfb07744da7970779845edfd.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1721,
+    "title" : "Gìn Giữ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_969fc613c5946cef6df94793ccba4290_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Gìn Giữ Cho Nhau (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_969fc613c5946cef6df94793ccba4290_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Gìn Giữ Cho Nhau (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_66d6610382cc376022e8520eecf25abc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "Gìn Giữ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_55bb558575f3ec6beb60986c6d12ed1f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2080,
+    "title" : "Gìn Giữ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_a86785e5391112dd529b80f5d39ebb7c.mp3",
+    "title" : "Gìn Giữ Cho Nhau (phần 1) Sách Nói _Giọng Đọc Thiên Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_f1833abedad4a6c5debdeba047ba4135.mp3",
+    "title" : "Gìn Giữ Cho Nhau (phần 2) Sách Nói _Giọng Đọc Thiên Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_af948d118445bdb9eda11723d997dc69.mp3",
+    "title" : "Gìn Giữ Cho Nhau (phần 3) Sách Nói _Giọng Đọc Thiên Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_a4e1b46acfb07744da7970779845edfd.mp3",
+    "title" : "Gìn Giữ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_969fc613c5946cef6df94793ccba4290_1.mp3",
+    "title" : "Gìn Giữ Cho Nhau (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_969fc613c5946cef6df94793ccba4290_2.mp3",
+    "title" : "Gìn Giữ Cho Nhau (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_66d6610382cc376022e8520eecf25abc.mp3",
+    "title" : "Gìn Giữ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_636d4cd675e581361d8d4ad0f3c9a342_55bb558575f3ec6beb60986c6d12ed1f.mp3",
+    "title" : "Gìn Giữ Cho Nhau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
