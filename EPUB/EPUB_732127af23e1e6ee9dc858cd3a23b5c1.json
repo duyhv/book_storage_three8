@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-xa-tiep-chieu-di_15884.html",
+    "title" : "Ông Xã, Tiếp Chiêu Đi!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Mạc Duyên Thiển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 78342,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_732127af23e1e6ee9dc858cd3a23b5c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_732127af23e1e6ee9dc858cd3a23b5c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "Trùng sinh yêu lại chồng cũ lắm tiền| Truyện ngôn tình trọng sinh, sắc sủng [ Hay quá aaaaa]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "[P10] Trùng sinh yêu lại chồng cũ lắm tiền| Vợ yêu lại ghen rồi| Truyện trọng sinh, sắc sủng cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "[P11] Trùng sinh yêu lại chồng cũ lắm tiền| Lần đầu cãi nhau nảy lửa| Truyện trọng sinh sắc ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "[P12] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng tài bị em gái bỏ thuốc kích dục| Truyện sắc cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "[P13] Trùng sinh yêu lại chồng cũ lắm tiền| Nhà thiết kế động tâm, động tình| Truyện trọng sinh sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "[P14] Trùng sinh yêu lại ông xã lắm tiền| Tổng tài trút hết ghen tuông lên giường| Truyện trọng sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "[P15]Trùng sinh yêu lại chồng cũ lắm tiền| Bí mật qua đêm tại nhà \"anh trai nuôi\"| Truyện trọng sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "[P16] Trùng sinh yêu lại chồng cũ lắm tiền| Có con riêng, bị tình cũ uy hiếp| Truyện trọng sinh sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "[P17] Trùng sinh yêu lại chồng cũ lắm tiền| Tất cả là âm mưu tình cũ| Truyện trọng sinh sắc sủng hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "[p18] Trùng sinh yêu lại chồng cũ lắm tiền| Suýt bị cưỡng bức| Truyện trọng sinh sắc sủng cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "[P19] Trọng sinh yêu lại chồng cũ lắm tiền| Cả đời anh không rảnh để ly hôn| Truyện trọng sinh, sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "[P2] Trùng sinh yêu lại chồng cũ lắm tiền| Đừng...chồng tha cho em đi| Truyện sắc, sủng cực ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "[P10] Trùng sinh yêu lại chồng cũ lắm tiền| Đời này em đừng mơ rời bỏ anh| Truyện trọng sinh sắc hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "[Tập cuối cực hay] Trùng sinh yêu lại chồng cũ lắm tiền| Người yêu nhau sẽ về với nhau...Viên mãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "[P3] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng giám đốc \"Phạt vợ cả đêm\"| Truyện sắc ngọt quá đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "[p4] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng tài thèm vợ như Sói đói| Truyện sắc trọng sinh ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "[p5] Trùng sinh yêu lại chồng cũ lắm tiền|Vợ yêu nằm ngoan dưới than anh| Truyện sắc trọng sinh ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4172,
+    "title" : "[P6] Trùng sinh yêu lại chồng cũ lắm tiền| Ghen với tiểu tam kiếp trước| Truyện ngôn tình sắc ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "[P7] Trùng sinh yêu lại chồng cũ lắm tiền| Làm chuyện ấy ở nhà mới| Truyện trọng sinh, sắc cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "[P8] Trùng sinh yêu lại chồng cũ lắm tiền| Anh cũng có thể\"đút cho em\" Truyện trọng sinh, sắc sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "[P9] Trùng sinh yêu lại chồng cũ lắm tiền|Không thèm hậu hạ anh nữa| Truyện trọng sinh, sắc sủng hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/1.mp3",
+    "title" : "Trùng sinh yêu lại chồng cũ lắm tiền| Truyện ngôn tình trọng sinh, sắc sủng [ Hay quá aaaaa]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/10.mp3",
+    "title" : "[P10] Trùng sinh yêu lại chồng cũ lắm tiền| Vợ yêu lại ghen rồi| Truyện trọng sinh, sắc sủng cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/11.mp3",
+    "title" : "[P11] Trùng sinh yêu lại chồng cũ lắm tiền| Lần đầu cãi nhau nảy lửa| Truyện trọng sinh sắc ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/12.mp3",
+    "title" : "[P12] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng tài bị em gái bỏ thuốc kích dục| Truyện sắc cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/13.mp3",
+    "title" : "[P13] Trùng sinh yêu lại chồng cũ lắm tiền| Nhà thiết kế động tâm, động tình| Truyện trọng sinh sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/14.mp3",
+    "title" : "[P14] Trùng sinh yêu lại ông xã lắm tiền| Tổng tài trút hết ghen tuông lên giường| Truyện trọng sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/15.mp3",
+    "title" : "[P15]Trùng sinh yêu lại chồng cũ lắm tiền| Bí mật qua đêm tại nhà \"anh trai nuôi\"| Truyện trọng sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/16.mp3",
+    "title" : "[P16] Trùng sinh yêu lại chồng cũ lắm tiền| Có con riêng, bị tình cũ uy hiếp| Truyện trọng sinh sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/17.mp3",
+    "title" : "[P17] Trùng sinh yêu lại chồng cũ lắm tiền| Tất cả là âm mưu tình cũ| Truyện trọng sinh sắc sủng hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/18.mp3",
+    "title" : "[p18] Trùng sinh yêu lại chồng cũ lắm tiền| Suýt bị cưỡng bức| Truyện trọng sinh sắc sủng cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/19.mp3",
+    "title" : "[P19] Trọng sinh yêu lại chồng cũ lắm tiền| Cả đời anh không rảnh để ly hôn| Truyện trọng sinh, sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/2.mp3",
+    "title" : "[P2] Trùng sinh yêu lại chồng cũ lắm tiền| Đừng...chồng tha cho em đi| Truyện sắc, sủng cực ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/20.mp3",
+    "title" : "[P10] Trùng sinh yêu lại chồng cũ lắm tiền| Đời này em đừng mơ rời bỏ anh| Truyện trọng sinh sắc hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/21.mp3",
+    "title" : "[Tập cuối cực hay] Trùng sinh yêu lại chồng cũ lắm tiền| Người yêu nhau sẽ về với nhau...Viên mãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/3.mp3",
+    "title" : "[P3] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng giám đốc \"Phạt vợ cả đêm\"| Truyện sắc ngọt quá đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/4.mp3",
+    "title" : "[p4] Trùng sinh yêu lại chồng cũ lắm tiền| Tổng tài thèm vợ như Sói đói| Truyện sắc trọng sinh ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/5.mp3",
+    "title" : "[p5] Trùng sinh yêu lại chồng cũ lắm tiền|Vợ yêu nằm ngoan dưới than anh| Truyện sắc trọng sinh ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/6.mp3",
+    "title" : "[P6] Trùng sinh yêu lại chồng cũ lắm tiền| Ghen với tiểu tam kiếp trước| Truyện ngôn tình sắc ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/7.mp3",
+    "title" : "[P7] Trùng sinh yêu lại chồng cũ lắm tiền| Làm chuyện ấy ở nhà mới| Truyện trọng sinh, sắc cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/8.mp3",
+    "title" : "[P8] Trùng sinh yêu lại chồng cũ lắm tiền| Anh cũng có thể\"đút cho em\" Truyện trọng sinh, sắc sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-xa-tiep-chieu-di/9.mp3",
+    "title" : "[P9] Trùng sinh yêu lại chồng cũ lắm tiền|Không thèm hậu hạ anh nữa| Truyện trọng sinh, sắc sủng hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
