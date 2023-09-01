@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-binh-mien-dat-la_20727.html",
+    "title" : "Chiến Binh Miền Đất Lạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Xuân Đảng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 10977,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_b510c8ad5e3a3fa6043c685c5b724f45.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_b510c8ad5e3a3fa6043c685c5b724f45.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-binh (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_1.mp3",
+    "title" : "chien-binh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_2.mp3",
+    "title" : "chien-binh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_3.mp3",
+    "title" : "chien-binh (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_4.mp3",
+    "title" : "chien-binh (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_5.mp3",
+    "title" : "chien-binh (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b510c8ad5e3a3fa6043c685c5b724f45_802e1b62e92ca5ba787d85da9083c0bb_6.mp3",
+    "title" : "chien-binh (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
