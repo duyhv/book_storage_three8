@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-20-nhiet-huyet_19441.html",
+    "title" : "Tuổi 20 Nhiệt Huyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Honda",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 8720,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_1fa5a0b16def2d4f48c50218f2d3ac87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_1fa5a0b16def2d4f48c50218f2d3ac87.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_1.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_2.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_3.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1fa5a0b16def2d4f48c50218f2d3ac87_ea89b965d9815f4806fec4ef3b79880e_4.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
