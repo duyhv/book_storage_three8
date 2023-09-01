@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_47b874cc7c92a2e2416633108ca913d3.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_47b874cc7c92a2e2416633108ca913d3.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_47b874cc7c92a2e2416633108ca913d3.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_47b874cc7c92a2e2416633108ca913d3.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_1.mp3",
     "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_2.mp3",
     "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_3.mp3",
     "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full) (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_47b874cc7c92a2e2416633108ca913d3_09ac54db7ae510d8c88de18269cfb35e_4.mp3",
     "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full) (4)",
     "children" : [ ]
   } ],

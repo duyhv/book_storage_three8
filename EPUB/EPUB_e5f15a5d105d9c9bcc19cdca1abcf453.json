@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_e5f15a5d105d9c9bcc19cdca1abcf453.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_e5f15a5d105d9c9bcc19cdca1abcf453.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_e5f15a5d105d9c9bcc19cdca1abcf453.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_e5f15a5d105d9c9bcc19cdca1abcf453.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_10.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_11.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_12.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_13.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_14.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_15.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -157,63 +157,63 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_1.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_2.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_3.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_4.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_5.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (5)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_6.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (6)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_7.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (7)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_8.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (8)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_9.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (9)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_10.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_10.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (10)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_11.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_11.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (11)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_12.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_12.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (12)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_13.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_13.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (13)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_14.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_14.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (14)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_15.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e5f15a5d105d9c9bcc19cdca1abcf453_084782a760ccc35958f9db60bc03a1d6_15.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC) (15)",
     "children" : [ ]
   } ],

@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
     "title" : "Câu Hỏi Là Câu Trả Lời (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
     "title" : "Câu Hỏi Là Câu Trả Lời (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
     "title" : "Câu Hỏi Là Câu Trả Lời (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
     "title" : "Câu Hỏi Là Câu Trả Lời (4)",
     "children" : [ ]
   } ],

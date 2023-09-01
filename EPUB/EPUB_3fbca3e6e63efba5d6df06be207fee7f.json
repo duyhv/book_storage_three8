@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_3fbca3e6e63efba5d6df06be207fee7f.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_3fbca3e6e63efba5d6df06be207fee7f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_3fbca3e6e63efba5d6df06be207fee7f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_3fbca3e6e63efba5d6df06be207fee7f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (5)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (6)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (7)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
     "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (8)",
     "children" : [ ]
   } ],

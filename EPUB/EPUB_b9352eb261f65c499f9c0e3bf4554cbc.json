@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_b9352eb261f65c499f9c0e3bf4554cbc.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_b9352eb261f65c499f9c0e3bf4554cbc.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_b9352eb261f65c499f9c0e3bf4554cbc.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_b9352eb261f65c499f9c0e3bf4554cbc.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_1.mp3",
     "title" : "buoi-toi (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_2.mp3",
     "title" : "buoi-toi (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_3.mp3",
     "title" : "buoi-toi (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b9352eb261f65c499f9c0e3bf4554cbc_7444aa2d1e550367102e4367ba38c5a9_4.mp3",
     "title" : "buoi-toi (4)",
     "children" : [ ]
   } ],
