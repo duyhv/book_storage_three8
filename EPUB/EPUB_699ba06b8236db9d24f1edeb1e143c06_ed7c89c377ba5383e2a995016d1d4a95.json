@@ -1,0 +1,1124 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyenio.com/truyen-tranh/no-la-cua-toi-192922",
+    "title" : "Nó Là Của Tôi - Chapter 150",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-16",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 159,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_7bfcd6349535f9cf9452b7a6721bc6f4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1654881527_chap_0a.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_a4c49182b6e3e381658199e9f040dee2.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/8008977945_chap_0b.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_cf194e3581522650dc4a4d2960fecb9e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0908920625_chap_150_1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_65057cb85f67878a356dd475ee3f3a94.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7524375915_chap_150_2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_d0d82bea7d8d3aa67c02dfdbcd155ec3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0468300677_chap_150_3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_777fadd15154922191453872b48e88fb.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0842393569_chap_150_4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_a9fd71333f509cd2571047583cc8ec82.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2735181999_chap_150_5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_f5266b8af9ef270b4137ece846e2260a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4014069186_chap_150_6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_e49c31ab970779410d659de0dffb7f6f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6267373068_chap_150_7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_aefb00244007e8d269245a8608ea2edd.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/3393530904_chap_150_8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_3f91c4d58bdabe5665a74da66febd071.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0498086761_chap_150_9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_567ed790957abe59a42db6a5e485601d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6297805880_chap_150_10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_9138979316c9e1775c1d29d1b34b5bcd.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9389971458_chap_150_11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_b84a2feb800adf3a1608295946abc535.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1076250400_chap_150_12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_239fcd6c39e949a3aa00f65aa4568e84.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/8185502346_chap_150_13.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_8e320fd6f5fa935d833d29f41a96ffb4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5525769728_chap_150_14.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_02681e25f97b0de35b8ac8dde0865770.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5643567800_chap_150_15.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_c3fcc9dda9d5bc07650de6ea58bef887.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/8631380703_chap_150_16.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_77e427fabc36a375595f25ee389f7b2a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9589643128_chap_150_17.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_55aece2e67e988e04bbb3bd5abffcc55.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5658566006_chap_150_18.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_accdad68700389845e7459280d494f0d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4265201360_chap_150_19.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_13bd622b4c4a6b861df7f143b1776a98.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1599460907_chap_150_20.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_fe65d754a86f9148a40a93063c7633ce.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5393312800_chap_150_21.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_9304c9891f9571390f87649101bdb9f0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6501446457_chap_150_22.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_7f9a200841c189db32c82bda6f356704.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2908054575_chap_150_23.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_a87b9a8b945b122408787cecff951412.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2638528310_chap_150_24.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_da3a8a38beda431ab98477734353b58e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0288010505_chap_150_25.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_88bd79560a0cdce4b996f254d612fe23.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2753189192_chap_150_26.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_892208cd8230efa683e53bba02592f33.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/8640461235_chap_150_27.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_dbf6ee6e3ad832d55ecb0637c78cb010.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7164234082_chap_150_28.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_b1475ae5816d43432b11a22106f768c8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9178101487_chap_150_29.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_11ebf2845bc03f25b39c6b2e17c961c4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0374723781_chap_150_30.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_0aace106b545a73852fc61038235141b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7491882748_chap_150_31.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_4f35f980ec0fc87e4b87335f6e920d05.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7438088767_chap_150_32.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_5f0132a8a34923b6210455d03668e5e1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9435899808_chap_150_33.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_11d630d5f3e49ebd5f5c3330dc0fe103.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6630089492_chap_150_34.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_d444514b878aa0e90561dd315412f7d6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6856781796_chap_150_35.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_7ec08c02693b1eb2875e4c5e0879592b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4318281564_chap_150_36.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_53a0aca09eece5f43cdba9063ddbafa6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4627093130_chap_150_37.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_f605788add1f20b10e8e69b597e574f1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7026083792_chap_150_38.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_73b5489e565e9dc25f2ff57486a7a697.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9339885053_chap_150_39.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_9c1d579b582e60c0cbec76e85db967ac.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0261738702_chap_150_40.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_820bf4c5b8de3635ce894efd8e88f8a1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/3143036106_chap_150_41.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_7815c938ff362b9ddf17012160df9b21.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6172882534_chap_150_42.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_0b8df09113eaca9a5b229689d43ddba7.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2510383665_chap_150_43.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_0f57961b69f53ae7c90f699ad1a2a224.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7864413435_chap_150_44.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_2fa2b721f686be293b873658884be96e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1746579926_chap_150_45.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_94fc9c13ff02df7f4e3f486ed89433b1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/0830826129_chap_150_46.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_e71683282a5812f5a3f1a213412b966c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5275454072_chap_150_47.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_939fd67afa4673d0c04bbbe948711e12.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2740057117_chap_150_48.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_a88247eb5e3441f0763c7d02b3fe6b30.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7585669941_chap_150_49.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_842424aff9d182f778260908455fe429.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5268236166_chap_150_50.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_8cf3627200e75eb0947d03159a079ce7.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2353366545_chap_150_51.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_5de0c71099f4ea8f8ad3e63856fdddd1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7195611504_chap_150_52.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_ab068e3339ed8d8fa7e22cdadd3ea109.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/3231387923_chap_150_53.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_8941a4d2ad2e92ed3ef287410d935f23.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7262102163_chap_150_54.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_2f85f11aa420dd2632ec722ceccc5965.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1912076409_chap_150_55.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_bed4689f45fd0c4c3e2b818795978741.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/5182766437_chap_150_56.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_5ac9138f37ed7c773c74671c30551a74.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/9351462254_chap_150_57.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_1947791bf4dd9c08074a0482345ce935.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4021167210_chap_150_58.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_943c601e69b7412f2ece96cde454dcb8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/7636325592_chap_150_59.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_45a42786501786c6491f8a7318a742ad.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6223531597_chap_150_60.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_88d97a6573e499aea2de669c9ee43bfc.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/4342728349_chap_150_61.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_02290e4e814f5a94809893153cad94a6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/8196747605_chap_150_62.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_1e7dba084e8b72b4e466a444798b429e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1750919095_chap_150_63.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_cbcb784866983c772463344d790b6031.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/1205223362_chap_150_64.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_b0f35b4ce4f3dfbc09b2cd2e58df42b3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/2588456489_chap_150_65.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage8/main/IMAGE/IMAGE_699ba06b8236db9d24f1edeb1e143c06_ed7c89c377ba5383e2a995016d1d4a95_83ef356e489794f1fe28b41f61d6cd1b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/08/11/6764764294_chap_end.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
