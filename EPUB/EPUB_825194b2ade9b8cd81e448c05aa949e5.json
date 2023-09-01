@@ -1,0 +1,653 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lua-han-rung-xanh-hoang-ly_9438.html",
+    "title" : "Lửa Hận Rừng Xanh - Hoàng Ly",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Ly",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 208798,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_825194b2ade9b8cd81e448c05aa949e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_825194b2ade9b8cd81e448c05aa949e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp1-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "truyện ma mới nhất có thật 100_-LỬA HẬN RỪNG XANH TẬP 1-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp10-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3883,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 10-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp11-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5303,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 11-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp13-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5513,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 13-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp14-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 14 -mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp15-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4605,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 15-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp16-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 16-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp17-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 17-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp18-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 18-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp19-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 19-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp2-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "truyện ma mới nhất có thật 100_-LỬA HẬN RỪNG XANH TẬP 2 -mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp20-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5303,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 20-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp21-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 21-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp22-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3724,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 22-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp23-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 23-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp24-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 24-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp25-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5037,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 25-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp26-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 26-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp27-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 27-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp28-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3013,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 28-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp29-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 29-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp3-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 3-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp30-mcTunAnhCVU23Vitnam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 30-mc tuấn anh cổ vũ u23 việtnam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp4-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 4-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp5-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 5-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp6-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5128,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 6-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp7-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 7-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp8-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3534,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 8-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp9-mcTunAnhDinc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 9-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-L%E1%BB%ACA%20H%E1%BA%ACN%20R%E1%BB%AANG%20XANH%20T%E1%BA%ACP%20CU%E1%BB%90I-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13650,
+    "title" : "truyện ma mới nhất có thật 100%-LỬA HẬN RỪNG XANH TẬP CUỐI-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2031-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 31-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2032-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 32-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2033-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3939,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 33-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2034-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 34-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2035-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 35-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2036-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 36-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2037-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 37-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2038-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 38-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2039-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4055,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 39-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2040-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 40-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2041-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 41-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2042-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3821,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 42-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2043-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 43-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2044-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 44-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2045-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 45-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2046-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 46-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2047-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 47-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2048-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4153,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 48-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2049-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 49-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2050-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 50-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2051-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 51-mc tuấn anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp1-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-LỬA HẬN RỪNG XANH TẬP 1-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp10-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 10-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp11-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 11-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp13-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 13-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp14-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 14 -mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp15-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 15-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp16-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 16-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp17-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 17-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp18-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 18-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp19-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 19-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp2-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-LỬA HẬN RỪNG XANH TẬP 2 -mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp20-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 20-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp21-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 21-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp22-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 22-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp23-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 23-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp24-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 24-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp25-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 25-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp26-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 26-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp27-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 27-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp28-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 28-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp29-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 29-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp3-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 3-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp30-mcTunAnhCVU23Vitnam.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 30-mc tuấn anh cổ vũ u23 việtnam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp4-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 4-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp5-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 5-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp6-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 6-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp7-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 7-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp8-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 8-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/TruynMaMiNhtCTht100_-laHnRngXanhTp9-mcTunAnhDinc.mp3",
+    "title" : "truyện ma mới nhất có thật 100_-lửa hận rừng xanh tập 9-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-L%E1%BB%ACA%20H%E1%BA%ACN%20R%E1%BB%AANG%20XANH%20T%E1%BA%ACP%20CU%E1%BB%90I-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-LỬA HẬN RỪNG XANH TẬP CUỐI-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2031-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 31-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2032-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 32-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2033-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 33-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2034-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 34-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2035-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 35-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2036-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 36-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2037-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 37-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2038-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 38-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2039-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 39-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2040-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 40-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2041-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 41-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2042-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 42-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2043-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 43-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2044-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 44-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2045-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 45-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2046-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 46-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2047-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 47-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2048-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 48-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2049-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 49-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2050-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 50-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luahanrungxanh/truy%E1%BB%87n%20ma%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BA%ADt%20100_-l%E1%BB%ADa%20h%E1%BA%ADn%20r%E1%BB%ABng%20xanh%20t%E1%BA%ADp%2051-mc%20tu%E1%BA%A5n%20anh%20di%E1%BB%85n%20%C4%91%E1%BB%8Dc.mp3",
+    "title" : "truyện ma mới nhất có thật 100%-lửa hận rừng xanh tập 51-mc tuấn anh diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

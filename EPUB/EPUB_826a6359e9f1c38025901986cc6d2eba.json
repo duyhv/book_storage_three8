@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mo-rong-tam-tu_20873.html",
+    "title" : "Mở Rộng Tâm Từ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Vô Ngại",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-06",
+    "duration" : 4902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_826a6359e9f1c38025901986cc6d2eba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_826a6359e9f1c38025901986cc6d2eba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_1.mp3",
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_2.mp3",
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_826a6359e9f1c38025901986cc6d2eba_2ecefd79d6f17d76dcb1ff175e3504f3_3.mp3",
+    "title" : "[RADIO SÁCH] FULL MỞ RỘNG TÂM TỪ (LỢI ÍCH CỦA ĂN CHAY) || THÍCH VÔ NGẠI (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
