@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cau-hoi-la-cau-tra-loi_19886.html",
+    "title" : "Câu Hỏi Là Câu Trả Lời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Allan Pease",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-17",
+    "duration" : 7518,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Câu Hỏi Là Câu Trả Lời (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Câu Hỏi Là Câu Trả Lời (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Câu Hỏi Là Câu Trả Lời (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Câu Hỏi Là Câu Trả Lời (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
