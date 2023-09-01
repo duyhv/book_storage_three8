@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/triet-ly-cho-ca-cho-cuoc-song-tap-1_19841.html",
+    "title" : "Triết Lý Chợ Cá Cho Cuộc Sống Tập 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen C. Lundin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-16",
+    "duration" : 9088,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_860b4ae8deb17e45310f2f28dbdcfa8b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_860b4ae8deb17e45310f2f28dbdcfa8b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "triet-ly-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "triet-ly-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "triet-ly-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "triet-ly-1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "triet-ly-1 (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_1.mp3",
+    "title" : "triet-ly-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_2.mp3",
+    "title" : "triet-ly-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_3.mp3",
+    "title" : "triet-ly-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_4.mp3",
+    "title" : "triet-ly-1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_860b4ae8deb17e45310f2f28dbdcfa8b_1f273ad4e8e266362332f82d7b807772_5.mp3",
+    "title" : "triet-ly-1 (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
