@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-gioi-bi-mat-cua-tre-em_19396.html",
+    "title" : "Thế Giới Bí Mật Của Trẻ Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thérèse Gouin Décarie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 3353,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_cfef60e7a1eadf921b15c057631a0c60.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_cfef60e7a1eadf921b15c057631a0c60.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_53958f12605c5d77d07853940fc15058.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 572,
+    "title" : "01.GioiThieu TheGioiBiMatCuaTreEm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_006f26d33764a43faf9735cbd1a6565c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "02.C0102 MeVaConTuyHaiMaMot TamLyNguoiMeKhiSinhDe TheGioiBiMatCuaTreEm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_18e5b6c260973720b8e99a8b22877f8e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "03.C0304 DuaTreMoiSinh PhanUngCuaMeDoiVoiTreMoiSinh TheGioiBiMatCuaTreEm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_53958f12605c5d77d07853940fc15058.mp3",
+    "title" : "01.GioiThieu TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_006f26d33764a43faf9735cbd1a6565c.mp3",
+    "title" : "02.C0102 MeVaConTuyHaiMaMot TamLyNguoiMeKhiSinhDe TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_cfef60e7a1eadf921b15c057631a0c60_18e5b6c260973720b8e99a8b22877f8e.mp3",
+    "title" : "03.C0304 DuaTreMoiSinh PhanUngCuaMeDoiVoiTreMoiSinh TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
