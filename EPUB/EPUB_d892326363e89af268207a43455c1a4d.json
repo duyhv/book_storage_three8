@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/goc-khuat-cuoc-doi_18610.html",
+    "title" : "Góc Khuất Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Da xong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 67508,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_d892326363e89af268207a43455c1a4d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_d892326363e89af268207a43455c1a4d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2001%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 01   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2002%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2793,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 02   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2004_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 04  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2005%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 05   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2006%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2760,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 06   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2007%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 07   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2008%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 08   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2009%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hay%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 09   Truyện Giang Hồ Xã Hội Cực Hay 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2011_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 11  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2012%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 12   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2013%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 13   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2014%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 14   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2015%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2442,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 15   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2017%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2573,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 17   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2018%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 18   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2020%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2557,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 20   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2021%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3071,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 21   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%203%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 3   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp10%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập10   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp16%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3247,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập16   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp19%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập19   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2022%20%28H%E1%BA%BFt%29_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6009,
+    "title" : "MC Đình Duy  GÓC KHUẤT CUỘC ĐỜI - Tập 22 (Hết)  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2001%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 01   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2002%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 02   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2004_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 04  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2005%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 05   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2006%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 06   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2007%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 07   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2008%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 08   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2009%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hay%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 09   Truyện Giang Hồ Xã Hội Cực Hay 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2011_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 11  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2012%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 12   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2013%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 13   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2014%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 14   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2015%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 15   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2017%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 17   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2018%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 18   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2020%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 20   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2021%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 21   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%203%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập 3   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp10%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập10   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp16%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập16   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_%20G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp19%20_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy   GÓC KHUẤT CUỘC ĐỜI - Tập19   Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GocKhuatCuocDoi/MC%20%C4%90%C3%ACnh%20Duy%20_G%C3%93C%20KHU%E1%BA%A4T%20CU%E1%BB%98C%20%C4%90%E1%BB%9CI%20-%20T%E1%BA%ADp%2022%20%28H%E1%BA%BFt%29_%20Truy%E1%BB%87n%20Giang%20H%E1%BB%93%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hot%202019%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+    "title" : "MC Đình Duy  GÓC KHUẤT CUỘC ĐỜI - Tập 22 (Hết)  Truyện Giang Hồ Xã Hội Cực Hot 2019   Nghiện Truyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
