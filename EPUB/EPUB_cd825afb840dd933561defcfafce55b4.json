@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 17679,
+    "published" : "2023-09-06",
+    "duration" : 22484,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,81 +26,49 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_cd825afb840dd933561defcfafce55b4.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_cd825afb840dd933561defcfafce55b4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_cd825afb840dd933561defcfafce55b4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_cd825afb840dd933561defcfafce55b4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_6f104630bbf698629f415991ca744510_1.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 01 Cynthia Kadohata (1)",
+    "duration" : 3222,
+    "title" : "KIRA KIRA 01 Cynthia Kadohata",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_6f104630bbf698629f415991ca744510_2.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 01 Cynthia Kadohata (2)",
+    "duration" : 3113,
+    "title" : "KIRA KIRA 02 Cynthia Kadohata",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4c0506ca52b348be8396bb7699c231a4_1.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 02 Cynthia Kadohata (1)",
+    "duration" : 3054,
+    "title" : "KIRA KIRA 03 Cynthia Kadohata",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4c0506ca52b348be8396bb7699c231a4_2.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 02 Cynthia Kadohata (2)",
+    "duration" : 3485,
+    "title" : "KIRA KIRA 04 Cynthia Kadohata",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_7c6839590edd13f75ec3408d1839258f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 03 Cynthia Kadohata (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_7c6839590edd13f75ec3408d1839258f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 03 Cynthia Kadohata (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_a7f07a5cbb040b7c4e234b91afd09197_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 04 Cynthia Kadohata (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_a7f07a5cbb040b7c4e234b91afd09197_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "KIRA KIRA 04 Cynthia Kadohata (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_686d3a736cd4671187d3efa18185802e.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2724,
@@ -108,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4e561693bfb742e311b1d3967dc4d0e5.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2081,
@@ -117,43 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_6f104630bbf698629f415991ca744510_1.mp3",
-    "title" : "KIRA KIRA 01 Cynthia Kadohata (1)",
+    "href" : "https://archive.org/download/kira-4/kira-1.mp3",
+    "title" : "KIRA KIRA 01 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_6f104630bbf698629f415991ca744510_2.mp3",
-    "title" : "KIRA KIRA 01 Cynthia Kadohata (2)",
+    "href" : "https://archive.org/download/kira-4/kira-2.mp3",
+    "title" : "KIRA KIRA 02 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4c0506ca52b348be8396bb7699c231a4_1.mp3",
-    "title" : "KIRA KIRA 02 Cynthia Kadohata (1)",
+    "href" : "https://archive.org/download/kira-4/kira-3.mp3",
+    "title" : "KIRA KIRA 03 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4c0506ca52b348be8396bb7699c231a4_2.mp3",
-    "title" : "KIRA KIRA 02 Cynthia Kadohata (2)",
+    "href" : "https://archive.org/download/kira-4/kira-4.mp3",
+    "title" : "KIRA KIRA 04 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_7c6839590edd13f75ec3408d1839258f_1.mp3",
-    "title" : "KIRA KIRA 03 Cynthia Kadohata (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_7c6839590edd13f75ec3408d1839258f_2.mp3",
-    "title" : "KIRA KIRA 03 Cynthia Kadohata (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_a7f07a5cbb040b7c4e234b91afd09197_1.mp3",
-    "title" : "KIRA KIRA 04 Cynthia Kadohata (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_a7f07a5cbb040b7c4e234b91afd09197_2.mp3",
-    "title" : "KIRA KIRA 04 Cynthia Kadohata (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_686d3a736cd4671187d3efa18185802e.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-5.mp3",
     "title" : "KIRA KIRA 05 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_cd825afb840dd933561defcfafce55b4_4e561693bfb742e311b1d3967dc4d0e5.mp3",
+    "href" : "https://archive.org/download/kira-4/kira-6.mp3",
     "title" : "KIRA KIRA 06 Cynthia Kadohata",
     "children" : [ ]
   } ],

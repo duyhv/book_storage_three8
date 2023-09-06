@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
+    "published" : "2023-09-06",
     "duration" : 17415,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,111 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_3fbca3e6e63efba5d6df06be207fee7f.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_3fbca3e6e63efba5d6df06be207fee7f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_3fbca3e6e63efba5d6df06be207fee7f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_3fbca3e6e63efba5d6df06be207fee7f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
+    "href" : "https://archive.org/download/vrt9kccdt/ma%CC%A3%CC%86c%20du%CC%80%20THA%CC%81NG%209%2C%20KHO%CC%82NG%20CO%CC%81%20CA%CC%A3%CC%82U%20%C4%90A%CC%83%20TO%CC%9B%CC%81I%20nhu%CC%9Bng%20ti%CC%80nh%20ba%CC%A3n%20%C4%91e%CC%A3p%20kho%CC%82ng%20bao%20gio%CC%9B%CC%80%20che%CC%82%CC%81t%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (6)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (7)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (8)",
+    "duration" : 17415,
+    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết...",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_1.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_2.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_3.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_4.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_5.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_6.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (6)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_7.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (7)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fbca3e6e63efba5d6df06be207fee7f_b9aba1258115632a5f19676e63a8f8bf_8.mp3",
-    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết... (8)",
+    "href" : "https://archive.org/download/vrt9kccdt/ma%CC%A3%CC%86c%20du%CC%80%20THA%CC%81NG%209%2C%20KHO%CC%82NG%20CO%CC%81%20CA%CC%A3%CC%82U%20%C4%90A%CC%83%20TO%CC%9B%CC%81I%20nhu%CC%9Bng%20ti%CC%80nh%20ba%CC%A3n%20%C4%91e%CC%A3p%20kho%CC%82ng%20bao%20gio%CC%9B%CC%80%20che%CC%82%CC%81t%20%28192kbit_AAC%29.m4a",
+    "title" : "mặc dù THÁNG 9, KHÔNG CÓ CẬU ĐÃ TỚI nhưng tình bạn đẹp không bao giờ chết...",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

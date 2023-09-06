@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 8453,
+    "published" : "2023-09-06",
+    "duration" : 16906,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_3cdcee7ed595b3ee60ee6756b5518dc0.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_3cdcee7ed595b3ee60ee6756b5518dc0.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_3cdcee7ed595b3ee60ee6756b5518dc0.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_3cdcee7ed595b3ee60ee6756b5518dc0.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_3cdcee7ed595b3ee60ee6756b5518dc0_2d62b621c20c5d162afd70eae39d28eb.mp3",
+    "href" : "https://archive.org/download/dalachuyencuahomqua/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3566,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_3cdcee7ed595b3ee60ee6756b5518dc0_4893ba25e4fbca4c38e56fd21111d1a2.mp3",
+    "href" : "https://archive.org/download/dalachuyencuahomqua/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4887,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_3cdcee7ed595b3ee60ee6756b5518dc0_2d62b621c20c5d162afd70eae39d28eb.mp3",
+    "href" : "https://archive.org/download/dalachuyencuahomqua/1.mp3",
     "title" : "TRUYỆN NGÔN TÌNH YÊU VÀ THÙ HẬN SÂU SẮC - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_3cdcee7ed595b3ee60ee6756b5518dc0_4893ba25e4fbca4c38e56fd21111d1a2.mp3",
+    "href" : "https://archive.org/download/dalachuyencuahomqua/2.mp3",
     "title" : "TRUYỆN NGÔN TÌNH YÊU VÀ THÙ HẬN SÂU SẮC - MC BẢO ANH",
     "children" : [ ]
   } ],

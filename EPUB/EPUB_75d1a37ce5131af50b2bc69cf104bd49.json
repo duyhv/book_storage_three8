@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 29773,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,243 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_75d1a37ce5131af50b2bc69cf104bd49.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_75d1a37ce5131af50b2bc69cf104bd49.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_75d1a37ce5131af50b2bc69cf104bd49.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_75d1a37ce5131af50b2bc69cf104bd49.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_1.mp3",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-1 (1)",
+    "duration" : 7800,
+    "title" : "khieu-vu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_2.mp3",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-1 (2)",
+    "duration" : 7800,
+    "title" : "khieu-vu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_3.mp3",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-1 (3)",
+    "duration" : 7800,
+    "title" : "khieu-vu-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_4.mp3",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-1 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-2 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-3 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-3 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khieu-vu-4 (4)",
+    "duration" : 6373,
+    "title" : "khieu-vu-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_1.mp3",
-    "title" : "khieu-vu-1 (1)",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-1.mp3",
+    "title" : "khieu-vu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_2.mp3",
-    "title" : "khieu-vu-1 (2)",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-2.mp3",
+    "title" : "khieu-vu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_3.mp3",
-    "title" : "khieu-vu-1 (3)",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-3.mp3",
+    "title" : "khieu-vu-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_4.mp3",
-    "title" : "khieu-vu-1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_3f5454a21320c84de596092803ebea84_5.mp3",
-    "title" : "khieu-vu-1 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_1.mp3",
-    "title" : "khieu-vu-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_2.mp3",
-    "title" : "khieu-vu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_3.mp3",
-    "title" : "khieu-vu-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_4.mp3",
-    "title" : "khieu-vu-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_25a47a828a071458e27b94347c195fb2_5.mp3",
-    "title" : "khieu-vu-2 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_1.mp3",
-    "title" : "khieu-vu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_2.mp3",
-    "title" : "khieu-vu-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_3.mp3",
-    "title" : "khieu-vu-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_4.mp3",
-    "title" : "khieu-vu-3 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_7d40cc1db49d64801bccc3ad2e56410e_5.mp3",
-    "title" : "khieu-vu-3 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_1.mp3",
-    "title" : "khieu-vu-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_2.mp3",
-    "title" : "khieu-vu-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_3.mp3",
-    "title" : "khieu-vu-4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_75d1a37ce5131af50b2bc69cf104bd49_8a3c5f9bc19c3b02b23ce8a48f8198aa_4.mp3",
-    "title" : "khieu-vu-4 (4)",
+    "href" : "https://archive.org/download/khieu-vu-1_202112/khieu-vu-4.mp3",
+    "title" : "khieu-vu-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

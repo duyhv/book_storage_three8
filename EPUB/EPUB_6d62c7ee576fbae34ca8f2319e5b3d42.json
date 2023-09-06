@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 4932,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_6d62c7ee576fbae34ca8f2319e5b3d42.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_6d62c7ee576fbae34ca8f2319e5b3d42.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_6d62c7ee576fbae34ca8f2319e5b3d42.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_6d62c7ee576fbae34ca8f2319e5b3d42.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_1.mp3",
+    "href" : "https://archive.org/download/nghi-don/nghi-don.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghi-don (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghi-don (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghi-don (3)",
+    "duration" : 4932,
+    "title" : "nghi-don",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_1.mp3",
-    "title" : "nghi-don (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_2.mp3",
-    "title" : "nghi-don (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_6d62c7ee576fbae34ca8f2319e5b3d42_c32b1a2b6d5d4c9cd3a741b840da2286_3.mp3",
-    "title" : "nghi-don (3)",
+    "href" : "https://archive.org/download/nghi-don/nghi-don.mp3",
+    "title" : "nghi-don",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

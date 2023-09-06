@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 9898,
+    "published" : "2023-09-06",
+    "duration" : 19796,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/EPUB/EPUB_98472ad7081553cc2bb60ec0ebabd524.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_98472ad7081553cc2bb60ec0ebabd524.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/IMAGE/IMAGE_98472ad7081553cc2bb60ec0ebabd524.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_98472ad7081553cc2bb60ec0ebabd524.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_df5f17aabd232ce87182a1c39b8ebe81.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-01-loi_gioi_thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 412,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_b39bd19eae25d6448201f9ab7b749109.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-02-mat_trai_cua_thanh_cong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 768,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_40e141b8555dfbb463ca1c25d7462512.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-03-cac_nhan_to_dieu_tiet.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1396,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_71769659e08a59a1922764e8cb173ee8.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-04-chuyen_vieng_tham_cua_jo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2344,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_4de604a21601345ef77c2d08ddf18237.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-05-hay_van_dong_vi_suc_khoe.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2584,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_ebb2be264d94caa67847fee64b626ab3.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-06-ke_hoach_thay_doi_cuoc_s.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1404,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_86570994c95bbba43cb1c2f90aae0ade.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-07-giup_do_nguoi_khac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 990,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_df5f17aabd232ce87182a1c39b8ebe81.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-01-loi_gioi_thieu.mp3",
     "title" : "Lời Giới Thiệu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_b39bd19eae25d6448201f9ab7b749109.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-02-mat_trai_cua_thanh_cong.mp3",
     "title" : "Mặt Trái Của Thành Công",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_40e141b8555dfbb463ca1c25d7462512.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-03-cac_nhan_to_dieu_tiet.mp3",
     "title" : "Các Nhân Tố Điều Tiết",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_71769659e08a59a1922764e8cb173ee8.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-04-chuyen_vieng_tham_cua_jo.mp3",
     "title" : "Chuyến Viếng Thăm Của Jo",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_4de604a21601345ef77c2d08ddf18237.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-05-hay_van_dong_vi_suc_khoe.mp3",
     "title" : "Hãy Vận Động Về Sức Khỏe",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_ebb2be264d94caa67847fee64b626ab3.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-06-ke_hoach_thay_doi_cuoc_s.mp3",
     "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three8/main/AUDIO/AUDIO_98472ad7081553cc2bb60ec0ebabd524_86570994c95bbba43cb1c2f90aae0ade.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-07-giup_do_nguoi_khac.mp3",
     "title" : "Giúp Đỡ Người Khác",
     "children" : [ ]
   } ],

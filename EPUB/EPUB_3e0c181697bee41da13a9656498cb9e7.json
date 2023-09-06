@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 6304,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_3e0c181697bee41da13a9656498cb9e7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_3e0c181697bee41da13a9656498cb9e7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_3e0c181697bee41da13a9656498cb9e7.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_3e0c181697bee41da13a9656498cb9e7.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_1.mp3",
+    "href" : "https://archive.org/download/doanh_202106/doanh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doanh (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doanh (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doanh (3)",
+    "duration" : 6304,
+    "title" : "doanh",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_1.mp3",
-    "title" : "doanh (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_2.mp3",
-    "title" : "doanh (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3e0c181697bee41da13a9656498cb9e7_0c33d3065ab0b0ebac441ad7d5748e58_3.mp3",
-    "title" : "doanh (3)",
+    "href" : "https://archive.org/download/doanh_202106/doanh.mp3",
+    "title" : "doanh",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-03",
-    "duration" : 15142,
+    "published" : "2023-09-06",
+    "duration" : 11542,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,49 +26,33 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_8525820042ac4c8f90ef41e48865f955.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_8525820042ac4c8f90ef41e48865f955.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_8525820042ac4c8f90ef41e48865f955.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_8525820042ac4c8f90ef41e48865f955.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_513bd1481b331b5208f750c4acd609a9_1.mp3",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vong-tay-1 (1)",
+    "duration" : 3600,
+    "title" : "vong-tay-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_513bd1481b331b5208f750c4acd609a9_2.mp3",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vong-tay-1 (2)",
+    "duration" : 3600,
+    "title" : "vong-tay-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_bec86cc7a1876d25c76af10bde05b8d4_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vong-tay-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_bec86cc7a1876d25c76af10bde05b8d4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vong-tay-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_b92e415fc9730e80ee62b6ec2260a306.mp3",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2171,
@@ -77,23 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_513bd1481b331b5208f750c4acd609a9_1.mp3",
-    "title" : "vong-tay-1 (1)",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-1.mp3",
+    "title" : "vong-tay-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_513bd1481b331b5208f750c4acd609a9_2.mp3",
-    "title" : "vong-tay-1 (2)",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-2.mp3",
+    "title" : "vong-tay-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_bec86cc7a1876d25c76af10bde05b8d4_1.mp3",
-    "title" : "vong-tay-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_bec86cc7a1876d25c76af10bde05b8d4_2.mp3",
-    "title" : "vong-tay-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_8525820042ac4c8f90ef41e48865f955_b92e415fc9730e80ee62b6ec2260a306.mp3",
+    "href" : "https://archive.org/download/vong-tay-1/vong-tay-3.mp3",
     "title" : "vong-tay-3",
     "children" : [ ]
   } ],

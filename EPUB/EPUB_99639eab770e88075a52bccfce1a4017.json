@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-17",
+    "published" : "2023-09-06",
     "duration" : 7518,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
+    "href" : "https://archive.org/download/cau-hoi-la-cau-tra-loi/C%C3%A2u%20H%E1%BB%8Fi%20L%C3%A0%20C%C3%A2u%20Tr%E1%BA%A3%20L%E1%BB%9Di.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Câu Hỏi Là Câu Trả Lời (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Câu Hỏi Là Câu Trả Lời (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Câu Hỏi Là Câu Trả Lời (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Câu Hỏi Là Câu Trả Lời (4)",
+    "duration" : 7518,
+    "title" : "Câu Hỏi Là Câu Trả Lời",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_1.mp3",
-    "title" : "Câu Hỏi Là Câu Trả Lời (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_2.mp3",
-    "title" : "Câu Hỏi Là Câu Trả Lời (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_3.mp3",
-    "title" : "Câu Hỏi Là Câu Trả Lời (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_99639eab770e88075a52bccfce1a4017_4a8853155ba8be5268e67ba1de9587c1_4.mp3",
-    "title" : "Câu Hỏi Là Câu Trả Lời (4)",
+    "href" : "https://archive.org/download/cau-hoi-la-cau-tra-loi/C%C3%A2u%20H%E1%BB%8Fi%20L%C3%A0%20C%C3%A2u%20Tr%E1%BA%A3%20L%E1%BB%9Di.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

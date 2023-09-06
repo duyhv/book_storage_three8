@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 5198,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_5ea33f2b0adf4cef32741b3f53c49c35.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_5ea33f2b0adf4cef32741b3f53c49c35.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_5ea33f2b0adf4cef32741b3f53c49c35.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_5ea33f2b0adf4cef32741b3f53c49c35.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_1.mp3",
+    "href" : "https://archive.org/download/thay-chung/thay-chung.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-chung (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-chung (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-chung (3)",
+    "duration" : 5198,
+    "title" : "thay-chung",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_1.mp3",
-    "title" : "thay-chung (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_2.mp3",
-    "title" : "thay-chung (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_5ea33f2b0adf4cef32741b3f53c49c35_3c0cb7629c4d24eb11099c28713eab11_3.mp3",
-    "title" : "thay-chung (3)",
+    "href" : "https://archive.org/download/thay-chung/thay-chung.mp3",
+    "title" : "thay-chung",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

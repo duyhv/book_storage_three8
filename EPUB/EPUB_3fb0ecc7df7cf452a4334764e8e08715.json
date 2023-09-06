@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 10082,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_3fb0ecc7df7cf452a4334764e8e08715.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_3fb0ecc7df7cf452a4334764e8e08715.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_3fb0ecc7df7cf452a4334764e8e08715.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_3fb0ecc7df7cf452a4334764e8e08715.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_1.mp3",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-1 (1)",
+    "duration" : 3600,
+    "title" : "cong-tu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_2.mp3",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-1 (2)",
+    "duration" : 3600,
+    "title" : "cong-tu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_1.mp3",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cong-tu-3 (2)",
+    "duration" : 2882,
+    "title" : "cong-tu-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_1.mp3",
-    "title" : "cong-tu-1 (1)",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-1.mp3",
+    "title" : "cong-tu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_a61bd1b90f7cf8128503decf42ad0792_2.mp3",
-    "title" : "cong-tu-1 (2)",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-2.mp3",
+    "title" : "cong-tu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_1.mp3",
-    "title" : "cong-tu-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_10703c91f83ead92e7894650b47abacb_2.mp3",
-    "title" : "cong-tu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_1.mp3",
-    "title" : "cong-tu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_3fb0ecc7df7cf452a4334764e8e08715_fe6fd2b9096822a84c29a45412dbccae_2.mp3",
-    "title" : "cong-tu-3 (2)",
+    "href" : "https://archive.org/download/cong-tu-1/cong-tu-3.mp3",
+    "title" : "cong-tu-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
