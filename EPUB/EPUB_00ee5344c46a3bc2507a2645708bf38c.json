@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
-    "duration" : 15425,
+    "published" : "2023-09-06",
+    "duration" : 27864,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_00ee5344c46a3bc2507a2645708bf38c.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_00ee5344c46a3bc2507a2645708bf38c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_00ee5344c46a3bc2507a2645708bf38c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_00ee5344c46a3bc2507a2645708bf38c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_d3af4aadf5181ccf5b584eaa62b1eeef.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2130,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_f9d4aee8f886fe2c9b500b01d93810cf.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2865,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_4bb43fbb84cd142a83ce56aa9f496b42.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2751,
@@ -60,23 +60,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_e811283843a87163546b051d60daf38c_1.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ANH DA DOI EM TUNG NGAY 04 (1)",
+    "duration" : 2986,
+    "title" : "ANH DA DOI EM TUNG NGAY 04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_e811283843a87163546b051d60daf38c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ANH DA DOI EM TUNG NGAY 04 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_b79ed5fd2b33ef26d09d7c6e1f333fb3.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2020,
@@ -84,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_a8a7cd23de0de2c5d8bb8faf22c65c87.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1343,
@@ -92,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_442767de1ba7fb148c04d36537eb4e36.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1330,
@@ -101,35 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_d3af4aadf5181ccf5b584eaa62b1eeef.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_01.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_f9d4aee8f886fe2c9b500b01d93810cf.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_02.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_4bb43fbb84cd142a83ce56aa9f496b42.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_03.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_e811283843a87163546b051d60daf38c_1.mp3",
-    "title" : "ANH DA DOI EM TUNG NGAY 04 (1)",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_04.mp3",
+    "title" : "ANH DA DOI EM TUNG NGAY 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_e811283843a87163546b051d60daf38c_2.mp3",
-    "title" : "ANH DA DOI EM TUNG NGAY 04 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_b79ed5fd2b33ef26d09d7c6e1f333fb3.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_05.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_a8a7cd23de0de2c5d8bb8faf22c65c87.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_06.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_00ee5344c46a3bc2507a2645708bf38c_442767de1ba7fb148c04d36537eb4e36.mp3",
+    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_07.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 07",
     "children" : [ ]
   } ],

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 3410,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/EPUB/EPUB_0779ab7a6c6645148590410ba1c5919b.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/EPUB/EPUB_0779ab7a6c6645148590410ba1c5919b.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three8/main/IMAGE/IMAGE_0779ab7a6c6645148590410ba1c5919b.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three8/main/IMAGE/IMAGE_0779ab7a6c6645148590410ba1c5919b.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0779ab7a6c6645148590410ba1c5919b_6cac5adef749052b99abdb07d8aac43d_1.mp3",
+    "href" : "https://archive.org/download/tam-tinh-tron-bo-khanh-dinh/T%C3%A2m%20T%C3%ACnh%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29%20-%20Kh%C3%A1nh%20%C4%90%E1%BB%8Bnh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0779ab7a6c6645148590410ba1c5919b_6cac5adef749052b99abdb07d8aac43d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định (2)",
+    "duration" : 3410,
+    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0779ab7a6c6645148590410ba1c5919b_6cac5adef749052b99abdb07d8aac43d_1.mp3",
-    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0779ab7a6c6645148590410ba1c5919b_6cac5adef749052b99abdb07d8aac43d_2.mp3",
-    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định (2)",
+    "href" : "https://archive.org/download/tam-tinh-tron-bo-khanh-dinh/T%C3%A2m%20T%C3%ACnh%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29%20-%20Kh%C3%A1nh%20%C4%90%E1%BB%8Bnh.mp3",
+    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
