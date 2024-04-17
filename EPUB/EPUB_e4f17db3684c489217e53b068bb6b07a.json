@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 13052,
+    "published" : "2024-04-16",
+    "duration" : 6526,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/1_20210117_20210117_0929/1.mp3",
+    "href" : "https://archive.org/download/e4f17db3684c489217e53b068bb6b07a/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3308,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/1_20210117_20210117_0929/2.mp3",
+    "href" : "https://archive.org/download/e4f17db3684c489217e53b068bb6b07a/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3218,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/1_20210117_20210117_0929/1.mp3",
+    "href" : "https://archive.org/download/e4f17db3684c489217e53b068bb6b07a/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/1_20210117_20210117_0929/2.mp3",
+    "href" : "https://archive.org/download/e4f17db3684c489217e53b068bb6b07a/2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],

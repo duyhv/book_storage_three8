@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21364,
+    "published" : "2024-04-16",
+    "duration" : 10682,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-1.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-1-toi-di-tim-toi-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 918,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-2.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/toi-di-tim-toi-phan-2-3-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1515,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-3.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-4-21-ngay-lang-im-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1284,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-4.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-5-la-ban-toi-di-tim-toi-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1259,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-5.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-6-dao-vu-tru-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1593,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-6.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-7-niem-tin-phut-89-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1646,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-7.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-8-lan-theo-hanh-phuc-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1484,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-8.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-9-giot-nuoc-mat-27-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 983,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-1.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-1-toi-di-tim-toi-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 1 TÔI ĐI TÌM TÔI | NGUYỄN PHI VÂN | KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-2.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/toi-di-tim-toi-phan-2-3-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "title" : "TÔI ĐI TÌM TÔI PHẦN 2 & 3 | NGUYỄN PHI VÂN| KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-3.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-4-21-ngay-lang-im-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 4 - 21 NGÀY LẶNG IM | TÔI ĐI TÌM TÔI | KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-4.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-5-la-ban-toi-di-tim-toi-nguyen-phi-van-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 5 |LA BÀN| TÔI ĐI TÌM TÔI | NGUYỄN PHI VÂN |KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-5.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-6-dao-vu-tru-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 6 ĐẠO VŨ TRỤ | TÔI ĐI TÌM TÔI | KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-6.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-7-niem-tin-phut-89-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 7 | NIỀM TIN PHÚT 89 | TÔI ĐI TÌM TÔI | KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-7.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-8-lan-theo-hanh-phuc-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 8 - LẦN THEO HẠNH PHÚC | TÔI ĐI TÌM TÔI |KÊNH RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toi-di-6/toi-di-8.mp3",
+    "href" : "https://archive.org/download/e499a9e82fae057d08b75a5f0e28e450/phan-9-giot-nuoc-mat-27-toi-di-tim-toi-kenh-radio-tam-an.mp3",
     "title" : "PHẦN 9 - GIỌT NƯỚC MẮT 27 |TÔI ĐI TÌM TÔI| KÊNH RADIO TÂM AN",
     "children" : [ ]
   } ],
