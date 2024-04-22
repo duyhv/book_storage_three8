@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-22",
     "duration" : 5637,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/com-thay/com-thay.mp3",
+    "href" : "https://archive.org/download/d9d3ce2f4d3b93e4939d82bb4c0e43e2/com-thay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5637,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/com-thay/com-thay.mp3",
+    "href" : "https://archive.org/download/d9d3ce2f4d3b93e4939d82bb4c0e43e2/com-thay.mp3",
     "title" : "com-thay",
     "children" : [ ]
   } ],
