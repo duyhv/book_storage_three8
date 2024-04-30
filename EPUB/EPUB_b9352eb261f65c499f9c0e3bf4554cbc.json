@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-30",
     "duration" : 7010,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/buoi-toi/buoi-toi.mp3",
+    "href" : "https://archive.org/download/b9352eb261f65c499f9c0e3bf4554cbc/buoi-toi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7010,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/buoi-toi/buoi-toi.mp3",
+    "href" : "https://archive.org/download/b9352eb261f65c499f9c0e3bf4554cbc/buoi-toi.mp3",
     "title" : "buoi-toi",
     "children" : [ ]
   } ],

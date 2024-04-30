@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 22484,
+    "published" : "2024-04-29",
+    "duration" : 17679,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kira-4/kira-1.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-01-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3222,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-2.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-02-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3113,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-3.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-03-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3054,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-4.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-04-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3485,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-5.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-05-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2724,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-6.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-06-cynthia-kadohata.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2081,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kira-4/kira-1.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-01-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 01 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-2.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-02-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 02 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-3.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-03-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 03 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-4.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-04-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 04 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-5.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-05-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 05 Cynthia Kadohata",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kira-4/kira-6.mp3",
+    "href" : "https://archive.org/download/cd825afb840dd933561defcfafce55b4/kira-kira-06-cynthia-kadohata.mp3",
     "title" : "KIRA KIRA 06 Cynthia Kadohata",
     "children" : [ ]
   } ],

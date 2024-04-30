@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-29",
     "duration" : 10977,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chien-binh/chien-binh.mp3",
+    "href" : "https://archive.org/download/b510c8ad5e3a3fa6043c685c5b724f45/chien-binh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10977,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chien-binh/chien-binh.mp3",
+    "href" : "https://archive.org/download/b510c8ad5e3a3fa6043c685c5b724f45/chien-binh.mp3",
     "title" : "chien-binh",
     "children" : [ ]
   } ],
