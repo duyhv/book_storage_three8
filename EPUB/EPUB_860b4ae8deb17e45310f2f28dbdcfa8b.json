@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 9088,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/triet-ly-1_202208/triet-ly-1.mp3",
+    "href" : "https://archive.org/download/860b4ae8deb17e45310f2f28dbdcfa8b/triet-ly-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9088,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/triet-ly-1_202208/triet-ly-1.mp3",
+    "href" : "https://archive.org/download/860b4ae8deb17e45310f2f28dbdcfa8b/triet-ly-1.mp3",
     "title" : "triet-ly-1",
     "children" : [ ]
   } ],
