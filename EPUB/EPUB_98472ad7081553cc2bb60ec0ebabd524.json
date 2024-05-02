@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 19796,
+    "published" : "2024-05-02",
+    "duration" : 9898,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-01-loi_gioi_thieu.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/loi-gioi-thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 412,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-02-mat_trai_cua_thanh_cong.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/mat-trai-cua-thanh-cong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 768,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-03-cac_nhan_to_dieu_tiet.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/cac-nhan-to-dieu-tiet.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1396,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-04-chuyen_vieng_tham_cua_jo.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/chuyen-vieng-tham-cua-jo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2344,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-05-hay_van_dong_vi_suc_khoe.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/hay-van-dong-ve-suc-khoe.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2584,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-06-ke_hoach_thay_doi_cuoc_s.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/ke-hoach-thay-doi-cuoc-song.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1404,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-07-giup_do_nguoi_khac.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/giup-do-nguoi-khac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 990,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-01-loi_gioi_thieu.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/loi-gioi-thieu.mp3",
     "title" : "Lời Giới Thiệu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-02-mat_trai_cua_thanh_cong.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/mat-trai-cua-thanh-cong.mp3",
     "title" : "Mặt Trái Của Thành Công",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-03-cac_nhan_to_dieu_tiet.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/cac-nhan-to-dieu-tiet.mp3",
     "title" : "Các Nhân Tố Điều Tiết",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-04-chuyen_vieng_tham_cua_jo.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/chuyen-vieng-tham-cua-jo.mp3",
     "title" : "Chuyến Viếng Thăm Của Jo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-05-hay_van_dong_vi_suc_khoe.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/hay-van-dong-ve-suc-khoe.mp3",
     "title" : "Hãy Vận Động Về Sức Khỏe",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-06-ke_hoach_thay_doi_cuoc_s.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/ke-hoach-thay-doi-cuoc-song.mp3",
     "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCanbangcongviecvacuocsong/CBCVVCS-07-giup_do_nguoi_khac.mp3",
+    "href" : "https://archive.org/download/98472ad7081553cc2bb60ec0ebabd524/giup-do-nguoi-khac.mp3",
     "title" : "Giúp Đỡ Người Khác",
     "children" : [ ]
   } ],
