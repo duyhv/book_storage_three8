@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 24448,
+    "published" : "2024-05-06",
+    "duration" : 13767,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-1.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/1-gin-giu-cho-nhau-phan-1-sach-noi-giong-doc-thien-thao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1558,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-2.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/2-gin-giu-cho-nhau-phan-2-sach-noi-giong-doc-thien-thao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2107,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-3.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/3-gin-giu-cho-nhau-phan-3-sach-noi-giong-doc-thien-thao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1695,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-4.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/4-gin-giu-cho-nhau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1721,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-5.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/5-gin-giu-cho-nhau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3086,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-6.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/6-gin-giu-cho-nhau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1520,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-7.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/7-gin-giu-cho-nhau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2080,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-1.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/1-gin-giu-cho-nhau-phan-1-sach-noi-giong-doc-thien-thao.mp3",
     "title" : "Gìn Giữ Cho Nhau (phần 1) Sách Nói _Giọng Đọc Thiên Thảo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-2.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/2-gin-giu-cho-nhau-phan-2-sach-noi-giong-doc-thien-thao.mp3",
     "title" : "Gìn Giữ Cho Nhau (phần 2) Sách Nói _Giọng Đọc Thiên Thảo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-3.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/3-gin-giu-cho-nhau-phan-3-sach-noi-giong-doc-thien-thao.mp3",
     "title" : "Gìn Giữ Cho Nhau (phần 3) Sách Nói _Giọng Đọc Thiên Thảo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-4.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/4-gin-giu-cho-nhau.mp3",
     "title" : "Gìn Giữ Cho Nhau",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-5.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/5-gin-giu-cho-nhau.mp3",
     "title" : "Gìn Giữ Cho Nhau",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-6.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/6-gin-giu-cho-nhau.mp3",
     "title" : "Gìn Giữ Cho Nhau",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gin-giu-5/gin-giu-7.mp3",
+    "href" : "https://archive.org/download/636d4cd675e581361d8d4ad0f3c9a342/7-gin-giu-cho-nhau.mp3",
     "title" : "Gìn Giữ Cho Nhau",
     "children" : [ ]
   } ],

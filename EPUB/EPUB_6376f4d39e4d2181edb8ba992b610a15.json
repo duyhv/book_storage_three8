@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 14811,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-1.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/1-cam-on-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5414,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-2.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/2-cam-on-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4641,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-3.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/3-cam-on-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4756,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-1.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/1-cam-on-1.mp3",
     "title" : "cam-on-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-2.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/2-cam-on-2.mp3",
     "title" : "cam-on-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-3.mp3",
+    "href" : "https://archive.org/download/6376f4d39e4d2181edb8ba992b610a15/3-cam-on-3.mp3",
     "title" : "cam-on-3",
     "children" : [ ]
   } ],

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 5198,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thay-chung/thay-chung.mp3",
+    "href" : "https://archive.org/download/5ea33f2b0adf4cef32741b3f53c49c35/1-thay-chung.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5198,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thay-chung/thay-chung.mp3",
+    "href" : "https://archive.org/download/5ea33f2b0adf4cef32741b3f53c49c35/1-thay-chung.mp3",
     "title" : "thay-chung",
     "children" : [ ]
   } ],
