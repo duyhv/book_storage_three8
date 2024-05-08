@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 10082,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-1.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/1-cong-tu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-2.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/2-cong-tu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-3.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/3-cong-tu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2882,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-1.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/1-cong-tu-1.mp3",
     "title" : "cong-tu-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-2.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/2-cong-tu-2.mp3",
     "title" : "cong-tu-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cong-tu-1/cong-tu-3.mp3",
+    "href" : "https://archive.org/download/3fb0ecc7df7cf452a4334764e8e08715/3-cong-tu-3.mp3",
     "title" : "cong-tu-3",
     "children" : [ ]
   } ],

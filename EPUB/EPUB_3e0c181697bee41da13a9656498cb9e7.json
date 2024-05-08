@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 6304,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/doanh_202106/doanh.mp3",
+    "href" : "https://archive.org/download/3e0c181697bee41da13a9656498cb9e7/1-doanh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6304,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/doanh_202106/doanh.mp3",
+    "href" : "https://archive.org/download/3e0c181697bee41da13a9656498cb9e7/1-doanh.mp3",
     "title" : "doanh",
     "children" : [ ]
   } ],
