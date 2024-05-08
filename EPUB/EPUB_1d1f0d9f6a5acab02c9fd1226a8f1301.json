@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 21997,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-1.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/1-ke-hoach-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7440,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-2.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/2-ke-hoach-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7440,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-3.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/3-ke-hoach-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7117,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-1.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/1-ke-hoach-1.mp3",
     "title" : "ke-hoach-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-2.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/2-ke-hoach-2.mp3",
     "title" : "ke-hoach-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-3.mp3",
+    "href" : "https://archive.org/download/1d1f0d9f6a5acab02c9fd1226a8f1301/3-ke-hoach-3.mp3",
     "title" : "ke-hoach-3",
     "children" : [ ]
   } ],
