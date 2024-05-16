@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 27864,
+    "published" : "2024-05-14",
+    "duration" : 15425,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_01.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/1-anh-da-doi-em-tung-ngay-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2130,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_02.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/2-anh-da-doi-em-tung-ngay-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2865,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_03.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/3-anh-da-doi-em-tung-ngay-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2751,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_04.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/4-anh-da-doi-em-tung-ngay-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2986,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_05.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/5-anh-da-doi-em-tung-ngay-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2020,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_06.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/6-anh-da-doi-em-tung-ngay-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1343,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_07.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/7-anh-da-doi-em-tung-ngay-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1330,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_01.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/1-anh-da-doi-em-tung-ngay-01.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_02.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/2-anh-da-doi-em-tung-ngay-02.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_03.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/3-anh-da-doi-em-tung-ngay-03.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_04.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/4-anh-da-doi-em-tung-ngay-04.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_05.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/5-anh-da-doi-em-tung-ngay-05.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_06.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/6-anh-da-doi-em-tung-ngay-06.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/anh-da-doi-em-tung-ngay.sna/ANH_DA_DOI_EM_TUNG_NGAY_07.mp3",
+    "href" : "https://archive.org/download/00ee5344c46a3bc2507a2645708bf38c/7-anh-da-doi-em-tung-ngay-07.mp3",
     "title" : "ANH DA DOI EM TUNG NGAY 07",
     "children" : [ ]
   } ],
