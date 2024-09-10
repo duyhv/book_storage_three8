@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-28",
+    "published" : "2024-09-09",
     "duration" : 3353,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/01.GioiThieu_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/1-01-gioithieu-thegioibimatcuatreem.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 572,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/02.C0102_MeVaConTuyHaiMaMot_TamLyNguoiMeKhiSinhDe_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/2-02-c0102-mevacontuyhaimamot-tamlynguoimekhisinhde-thegioibimatcuatreem.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1377,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/03.C0304_DuaTreMoiSinh_PhanUngCuaMeDoiVoiTreMoiSinh_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/3-03-c0304-duatremoisinh-phanungcuamedoivoitremoisinh-thegioibimatcuatreem.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1404,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/01.GioiThieu_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/1-01-gioithieu-thegioibimatcuatreem.mp3",
     "title" : "01.GioiThieu TheGioiBiMatCuaTreEm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/02.C0102_MeVaConTuyHaiMaMot_TamLyNguoiMeKhiSinhDe_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/2-02-c0102-mevacontuyhaimamot-tamlynguoimekhisinhde-thegioibimatcuatreem.mp3",
     "title" : "02.C0102 MeVaConTuyHaiMaMot TamLyNguoiMeKhiSinhDe TheGioiBiMatCuaTreEm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/03.C0304_DuaTreMoiSinh_PhanUngCuaMeDoiVoiTreMoiSinh_TheGioiBiMatCuaTreEm.mp3",
+    "href" : "https://archive.org/download/cfef60e7a1eadf921b15c057631a0c60/3-03-c0304-duatremoisinh-phanungcuamedoivoitremoisinh-thegioibimatcuatreem.mp3",
     "title" : "03.C0304 DuaTreMoiSinh PhanUngCuaMeDoiVoiTreMoiSinh TheGioiBiMatCuaTreEm",
     "children" : [ ]
   } ],
