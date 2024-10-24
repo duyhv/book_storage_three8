@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
+    "published" : "2024-10-24",
     "duration" : 25004,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/6637d2eb27b1a36b7bfe235bf77e5d5e/1-dafba6c99830bb26c68c8a506ffd56de.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6637d2eb27b1a36b7bfe235bf77e5d5e/cloudflare_1-dafba6c99830bb26c68c8a506ffd56de.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 25004,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/6637d2eb27b1a36b7bfe235bf77e5d5e/1-dafba6c99830bb26c68c8a506ffd56de.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6637d2eb27b1a36b7bfe235bf77e5d5e/cloudflare_1-dafba6c99830bb26c68c8a506ffd56de.mp3",
     "title" : "dafba6c99830bb26c68c8a506ffd56de",
     "children" : [ ]
   } ],
