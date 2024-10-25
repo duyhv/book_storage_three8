@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-21",
+    "published" : "2024-10-25",
     "duration" : 31085,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/e5f15a5d105d9c9bcc19cdca1abcf453/sach-noi-full-kheo-noi-hay-de-khach-hang-mua-ngay-192kbit-aac-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/e5f15a5d105d9c9bcc19cdca1abcf453/cloudflare_1-sach-noi-full-kheo-noi-hay-de-khach-hang-mua-ngay-192kbit-aac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 31085,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/e5f15a5d105d9c9bcc19cdca1abcf453/sach-noi-full-kheo-noi-hay-de-khach-hang-mua-ngay-192kbit-aac-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/e5f15a5d105d9c9bcc19cdca1abcf453/cloudflare_1-sach-noi-full-kheo-noi-hay-de-khach-hang-mua-ngay-192kbit-aac.mp3",
     "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC)",
     "children" : [ ]
   } ],
